@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5913c2989f98943889494094384cbd18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trans: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  - leakPoint: {instanceID: 0}
+  - sellButtonLockPanel: {instanceID: 0}
+  - highlighter: {instanceID: 0}
+  - towerSellingPanel: {instanceID: 0}
+  - sellRefundText: {instanceID: 0}
+  - currentGoldText: {instanceID: 0}
+  - buildButtonPanel: {instanceID: 0}
+  - gameLostPanel: {instanceID: 0}
+  - gameLostPanelInfoText: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  - enemyHolder: {instanceID: 0}
+  - groundEnemyPrefab: {fileID: 2410392900684321047, guid: 634dd39d1411a45438fbdcaf44d399cf, type: 3}
+  - flyingEnemyPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
